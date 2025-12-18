@@ -1,18 +1,44 @@
-# EventPal-React-Project# 🎉 EventPal – Community Event Manager
+# 🎉 EventPal – Community Event Manager
 
-EventPal is a beginner-friendly React app that lets users discover, create, and manage events like workshops, webinars, and meetups.
+EventPal is a beginner-friendly React application that allows users to discover, create, and manage community events such as workshops, webinars, and meetups.
+
+The project demonstrates core front-end development concepts including component-based design, routing, state management, and persistent storage using localStorage.
+
+---
 
 ## ✨ Features
 
-- 🏠 View upcoming events in a card layout
-- ⭐ Bookmark or mark yourself as attending
-- ➕ Create your own events with a simple form
-- 💾 Events and preferences saved using localStorage
-- 🎨 Responsive design using Tailwind CSS
+- 🏠 View upcoming events in a clean card-based layout
+- ⭐ Bookmark or mark yourself as attending events
+- ➕ Create new events using a simple form
+- 💾 Persist events and preferences using `localStorage`
+- 🎨 Responsive UI built with Tailwind CSS
+- 🧭 Client-side routing using React Router
 
-## Tech Stack
+---
+
+## 🛠 Tech Stack
 
 - React
 - React Router
 - Tailwind CSS
 - LocalStorage (no backend)
+
+---
+
+## 🚀 How to Run Locally
+
+Follow the steps below to run EventPal on your laptop.
+
+---
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/<your-username>/EventPal-React-Project.git
+cd EventPal-React-Project
+
+Then on your terminal run
+npm install
+npm start
+```
