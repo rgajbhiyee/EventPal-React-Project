@@ -38,7 +38,6 @@ Follow the steps below to run EventPal on your laptop.
 git clone https://github.com/<your-username>/EventPal-React-Project.git
 cd EventPal-React-Project
 
-Then on your terminal run
 npm install
 npm start
 ```
